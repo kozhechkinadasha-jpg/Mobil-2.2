@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фрагменты — Животные</string>
+    <string name="title_first">Первый фрагмент</string>
+    <string name="title_second">Второй фрагмент</string>
+    <string name="title_third">Третий фрагмент</string>
+    <string name="button_to_second">Перейти ко второму</string>
+    <string name="button_to_third">Перейти к третьему</string>
+    <string name="button_back_to_first">Вернуться к первому</string>
+    <string name="student_name">Кожечкина Дарья Андреевна</string>
+    <string name="student_group">Смотритель зоопарка</string>
+    <string name="student_course">Смена: дневная</string>
+    <string name="fragment1_title">Первый фрагмент</string>
+    <string name="fragment1_curator">Смотритель: Кожечкина Дарья Андреевна</string>
+    <string name="fragment1_enclosure">Участок: млекопитающие и птицы</string>
+    <string name="fragment1_shift">Смена: дневная</string>
+    <string name="fragment2_title">Второй фрагмент</string>
+    <string name="fragment2_schedule_title">Расписание кормления:</string>
+    <string name="fragment2_monday">Понедельник: 8:00 — мясо, овощи</string>
+    <string name="fragment2_wednesday">Среда: 12:00 — рыба, злаки</string>
+    <string name="fragment2_friday">Пятница: 17:00 — фрукты, сено</string>
+    <string name="fragment3_title">Третий фрагмент</string>
+    <string name="fragment3_health_title">Состояние животных:</string>
+    <string name="fragment3_lion">Лев «Рыжик»: отлично</string>
+    <string name="fragment3_elephant">Слон «Дружок»: хорошо</string>
+    <string name="fragment3_penguin">Пингвин «Шустрик»: отлично</string>
+</resources>
